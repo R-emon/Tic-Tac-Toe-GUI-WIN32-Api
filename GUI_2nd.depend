@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1594415893 source:d:\codes\gui_2nd\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1594415895 d:\codes\gui_2nd\resource.h
+
+1597774644 source:d:\codes\gui_2nd\main.cpp
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	"resource.h"
+
